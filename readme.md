@@ -1,2 +1,2 @@
 I am Yiyou, a master student with keen interest in Artifical Intelligence research work. I spent last 6 months with establishing machine Learning models and exploring wide application in computer vision, natural languages processing and so on. My rigorous attitude towards academic research prepares myself for future career. If you are finding students who could also make great contribution in your team for internship- I'm your person!
-And the code, report of my projects is going to be uploaded here! Look forward to it!
+And the codes, reports of my projects are going to be uploaded here! Look forward to it!
